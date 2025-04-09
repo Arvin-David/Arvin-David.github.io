@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Steam Deck Showcase</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://github.com/Arvin-David/Arvin-David.github.io.git">
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -85,6 +85,6 @@
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+ https://github.com/Arvin-David/Arvin-David.github.io.git
 </body>
 </html>
